@@ -1,0 +1,5 @@
+"flightID=30776-843-jj&flightID=3730-1594-jj&flightID=22229-2323-jj&flightID=2603-3099-jj&5=on&"
+"flightID=1866-3876-jj&flightID=3718-4645-jj&flightID=1500-5423-jj&flightID=11124-6181-jj&fligh"
+"tID=3718-6952-jj&flightID=2603-7714-jj&.cgifields=6&.cgifields=3&.cgifields=7&.cgifields=9&.cg"
+"ifields=2&.cgifields=8&.cgifields=1&.cgifields=4&.cgifields=10&.cgifields=5&removeFlights.x=65"
+"&removeFlights.y=5"

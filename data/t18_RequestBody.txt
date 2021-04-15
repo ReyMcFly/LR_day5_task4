@@ -1,0 +1,5 @@
+"1=on&flightID=1120-788-aa&flightID=2992-1599-aa&flightID=33348-2340-aa&flightID=14827-3103-aa&"
+"flightID=18533-3876-aa&flightID=1128-4651-aa&flightID=11120-5403-aa&flightID=3355-6200-aa&flig"
+"htID=1124-6951-aa&flightID=3718-7722-aa&.cgifields=6&.cgifields=3&.cgifields=7&.cgifields=9&.c"
+"gifields=2&.cgifields=8&.cgifields=1&.cgifields=4&.cgifields=10&.cgifields=5&removeFlights.x=5"
+"8&removeFlights.y=6"
